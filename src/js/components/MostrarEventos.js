@@ -6,6 +6,7 @@ import React from "react";
 }
 
 export default class MostrarEventos extends React.Component {
+
   render() {
     
     return (
@@ -13,10 +14,9 @@ export default class MostrarEventos extends React.Component {
             <a href="#" class="list-group-item active">
                 Next Events
             </a>
-            <a href="#" class="list-group-item">Dapibus ac facilisis in</a>
-            <a href="#" class="list-group-item">Morbi leo risus</a>
-            <a href="#" class="list-group-item">Porta ac consectetur ac</a>
-            <a href="#" class="list-group-item">Vestibulum at eros</a>
+            <a href="#" class="list-group-item">Ver o Pai Natal</a>
+            <a href="#" class="list-group-item">Passagem de Ano</a>
+            <a href="#" class="list-group-item">Fazer árvore de Natal</a>
         </div>
     );
   }

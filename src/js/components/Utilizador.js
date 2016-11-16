@@ -31,7 +31,7 @@ export default class Utilizador extends React.Component {
                     <div class="col-md-8">
                         <h3> { nomeUtilizador } </h3>
                         <h3>
-                            { rankingUtilizador } 
+                            Ranking: { rankingUtilizador } 
                             <i class="fa fa-star" aria-hidden="true"> </i>
                         </h3>
                     </div>
