@@ -27,9 +27,9 @@ export default class PaginaPrincipal extends React.Component {
           {/*formlario para procurar eventos*/}
           <form class="form-horizontal">
             <div class="form-group">
-              <label for="inputEmail3" class="col-sm-2 control-label">Search Event</label>
+              <label for="searchEvent" class="col-sm-2 control-label">Search Event</label>
               <div class="col-sm-8">
-                <input type="email" class="form-control" id="inputEmail3" placeholder="Search Event"/>
+                <input type="text" class="form-control" id="searchEvent" placeholder="Search Event"/>
               </div>
               <button type="submit" class="btn btn-success">Search</button>
             </div>
