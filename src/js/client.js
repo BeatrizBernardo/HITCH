@@ -1,13 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-class Layout extends React.Component {
-    render(){
-        return(
-            <h1> primeiro testes</h1>
-        );
-    }
-}
+
+import PaginaPrincipal from "./pages/PaginaPrincipal";
 
 const app = document.getElementById('app');
-ReactDOM.render(<Layout/>, app);
+
+ReactDOM.render(<PaginaPrincipal/>,app);
