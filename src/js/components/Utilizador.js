@@ -31,8 +31,8 @@ export default class Utilizador extends React.Component {
                     <div class="col-md-8">
                         <h3> { nomeUtilizador } </h3>
                         <h3>
-                            Ranking: { rankingUtilizador } 
-                            <i class="fa fa-star" aria-hidden="true"> </i>
+                            <span> Ranking: { rankingUtilizador } </span> 
+                            <span> <i class="fa fa-star" aria-hidden="true"> </i> </span>
                         </h3>
                     </div>
                 </div>

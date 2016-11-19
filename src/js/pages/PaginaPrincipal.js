@@ -13,7 +13,7 @@ export default class PaginaPrincipal extends React.Component {
     };
     return (
       <div class="container">
-        <h1 style={hitchStyles}> HITCH </h1>
+        <h1 style={hitchStyles} class="text-center"> HITCH </h1>
         <div> 
           <Utilizador/>
         </div>
