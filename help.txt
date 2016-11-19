@@ -7,7 +7,7 @@ npm install babel-plugin-transform-class-properties --save
 npm install babel-plugin-transform-decorators --save
 npm install --save-dev babel-plugin-react-html-attrs
 npm install -S jquery
-npm install flux-react --save
+npm install flux --save
 npm install react-router --save
 npm run dev
 
