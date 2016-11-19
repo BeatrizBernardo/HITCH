@@ -27,9 +27,11 @@
     "flux": "^3.1.0",
     "flux-react": "^3.0.0",
     "jquery": "^3.1.1",
+    "rc-table": "^5.2.0",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-router": "^3.0.0",
+    "reactable": "^0.14.1",
     "webpack": "^1.13.3",
     "webpack-dev-server": "^1.16.2"
   },

@@ -9,6 +9,7 @@ npm install --save-dev babel-plugin-react-html-attrs
 npm install -S jquery
 npm install flux --save
 npm install react-router --save
+npm install --save reactable
 npm run dev
 
 localhost:8080
